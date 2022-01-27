@@ -1,0 +1,18 @@
+.main-section{
+    background-image: url("../images/main-section-image.jpg");
+    height: 600px;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.custom-letter{
+    font-size: 4rem;
+    color:red;
+}
+
+.middle-line{
+    width:80%;
+    color: rgb(241, 32, 144);
+}
